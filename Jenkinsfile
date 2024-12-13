@@ -40,7 +40,7 @@ agent any
                     ps -ef | tail -3
                     '''
                 }
-            }
+            }
 
-        }
+        }
 }
